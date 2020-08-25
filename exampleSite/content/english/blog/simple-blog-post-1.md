@@ -2,7 +2,7 @@
 title: Visita à Universidade de Coimbra
 date: 2018-09-12T06:52:36+00:00
 image_webp: "/images/06_11_img_abertura_torre_a.jpg"
-image: ''
+image: "/images/06_11_img_abertura_torre_a.jpg"
 author: João M.
 description: Pátio das Escolas da Universidade de Coimbra - Torre e escadarias de
   acesso à Via Latina
