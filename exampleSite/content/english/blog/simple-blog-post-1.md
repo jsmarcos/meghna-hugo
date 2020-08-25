@@ -1,10 +1,11 @@
 ---
-title: Simple Blog Post
-date: 2018-09-12T12:52:36.000+06:00
+title: Visita à Universidade de Coimbra
+date: 2018-09-12T06:52:36+00:00
 image_webp: "/images/06_11_img_abertura_torre_a.jpg"
 image: images/blog/blog-post-3.jpg
-author: John Doe
-description: This is meta description
+author: João M.
+description: Pátio das Escolas da Universidade de Coimbra - Torre e escadarias de
+  acesso à Via Latina
 
 ---
 Visita à Universidade de Coimbra.
