@@ -20,8 +20,8 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "OldPage"
-url = "http://clubeprisma.org"
+name = "VegaClube"
+url = "https://vegaclube.pt/"
 weight = 8
 [[menu.main]]
 URL = "contact"
