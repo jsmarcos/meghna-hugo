@@ -21,7 +21,7 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 URL = "www.vegaclube.pt"
-name = "Vega"
+name = "vega"
 weight = ""
 [[menu.main]]
 URL = "about"
