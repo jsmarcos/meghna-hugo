@@ -3,10 +3,10 @@ cta:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: 'O Prisma somos todos: pais & sócios e monitores'
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur
-    odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum.
-    Formamos um edifício robusto. Apoiamo-nos mutuamente.
+  title: O Prisma são os pais, os sócios & os monitores
+  content: Sim, também o Bernardo T. Lorem ipsum dolor sit amet consectetur adipisicing
+    elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis,
+    fugit commodi nostrum. Formamos um edifício robusto. Apoiamo-nos mutuamente.
   button:
     enable: true
     label: Inscreve-te hoje
