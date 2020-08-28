@@ -1,6 +1,4 @@
 ---
-- id: vega
-  translation: Clube Vega
 - id: blogTitle
   translation: Latest Post
 - id: readMore
@@ -17,6 +15,8 @@
   translation: All
 - id: about
   translation: About Us
+- id: vega
+  translation: Clube Vega
 - id: services
   translation: Service
 - id: portfolio
