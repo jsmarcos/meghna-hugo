@@ -20,7 +20,7 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "www.vegaclube.pt"
+URL = "vega"
 name = "vega"
 weight = ""
 [[menu.main]]
