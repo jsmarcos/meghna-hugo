@@ -59,13 +59,13 @@ weight = 8
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = ""
-logo = "images/prismalogo7.png"
+logo = "images/logoprisma10.png"
 post_share = true
 [params.map]
 enable = true
 gmap_api = "https://goo.gl/maps/MtbypZPFqE4VNSpZ7"
 map_latitude = "00.0000"
-map_longitude = "-00.0000"
+map_longitude = "00.0000"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -93,7 +93,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "images/prismalogo7.png"
+preloader = "images/logoprisma10.png"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
