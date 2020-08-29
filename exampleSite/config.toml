@@ -59,7 +59,7 @@ weight = 8
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = ""
-logo = "images/prismalogo3.png"
+logo = "images/prismalogo5.png"
 post_share = true
 [params.map]
 enable = true
@@ -93,7 +93,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "images/prismalogo3.png"
+preloader = "images/prismalogo5.png"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
