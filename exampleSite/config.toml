@@ -63,9 +63,9 @@ logo = "images/prismalogo6.png"
 post_share = true
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+gmap_api = "https://goo.gl/maps/MtbypZPFqE4VNSpZ7"
+map_latitude = "00.0000"
+map_longitude = "-00.0000"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
