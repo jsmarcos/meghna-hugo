@@ -59,7 +59,7 @@ weight = 8
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "images/logo2.png"
 post_share = true
 [params.map]
 enable = true
