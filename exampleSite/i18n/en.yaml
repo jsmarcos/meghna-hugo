@@ -1,6 +1,6 @@
 ---
 - id: blogTitle
-  translation: Latest Post
+  translation: Notícias
 - id: readMore
   translation: Leia mais
 - id: viewAllPost
