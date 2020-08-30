@@ -16,10 +16,11 @@ feature:
     icon: ti-panel
     content: As atividades do Prisma estão orientadas para o desenvolvimento total
       da pessoa, segundo uma perspetiva cristã. Têm sempre um fim formativo.
-  - title: SEO Optimized
+  - title: Perceptuação
     icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Cada sócio tem um perceptor, que colabora com a família na acção formativa.
+      É um amigo com experiência que incentiva, anima e aconselha, numa relação de
+      amizade e confiança.
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
