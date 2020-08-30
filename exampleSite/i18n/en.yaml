@@ -15,10 +15,8 @@
   translation: All
 - id: about
   translation: Sobre nós
-- id: vega
-  translation: Clube Vega
 - id: services
-  translation: Service
+  translation: Actividades
 - id: portfolio
   translation: Portfolio
 - id: team
