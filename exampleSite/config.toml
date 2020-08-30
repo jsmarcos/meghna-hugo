@@ -104,9 +104,6 @@ link = "#"
 icon = "ti-youtube"
 link = "#"
 [[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
 icon = "ti-dribbble"
 link = "#"
 [[params.social]]
