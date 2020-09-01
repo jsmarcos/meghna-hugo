@@ -1,6 +1,6 @@
 ---
 - id: blogTitle
-  translation: Notícias
+  translation: Blog
 - id: readMore
   translation: Leia mais
 - id: viewAllPost
@@ -17,12 +17,6 @@
   translation: Sobre nós
 - id: services
   translation: Actividades
-- id: portfolio
-  translation: Portfolio
-- id: team
-  translation: Team
-- id: pricing
-  translation: Pricing
 - id: blog
   translation: Blog
 - id: contact
