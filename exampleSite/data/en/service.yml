@@ -3,14 +3,24 @@ service:
   enable: true
   title: Our Services
   service_item:
+  - name: Diversas actividades lúdicas
+    icon: ''
+    content: 'Por exemplo: Trash art, aprender a fazer nós, fazer sabão. Sed id lorem
+      eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus
+      consectetur.'
+  - name: Programa Akademus
+    icon: ti-music-alt
+    content: A anunciar brevemente. Sed id lorem eget orci dictum facilisis vel id
+      tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Sala de Estudo
     icon: ti-world
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Responsive Design
+  - name: Desporto
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Hóquei, padel ténis, futebol, freesby, volley de praia. Sed id lorem
+      eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus
+      consectetur.
   - name: Formação cristã
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
