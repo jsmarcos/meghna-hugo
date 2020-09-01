@@ -1,13 +1,16 @@
 ---
 service:
   enable: true
-  title: Our Services
+  title: Actividades
   service_item:
+  - name: Voluntariado
+    icon: ti-heart
+    content: Visitamos idosos e doentes. Fazemos jogos com crianças de um orfanato.
+      Sed id lorem eget orci dictum facilisis vel id tellus.
   - name: Diversas actividades lúdicas
     icon: ''
     content: 'Por exemplo: Trash art, aprender a fazer nós, fazer sabão. Sed id lorem
-      eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus
-      consectetur.'
+      eget orci dictum facilisis vel id tellus.'
   - name: Programa Akademus
     icon: ti-music-alt
     content: A anunciar brevemente. Sed id lorem eget orci dictum facilisis vel id
@@ -15,25 +18,24 @@ service:
   - name: Sala de Estudo
     icon: ti-world
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      facilisis vel id tellus.
   - name: Desporto
     icon: ti-layout
     content: Hóquei, padel ténis, futebol, freesby, volley de praia. Sed id lorem
-      eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus
-      consectetur.
+      eget orci dictum facilisis vel id tellus.
   - name: Formação cristã
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      facilisis vel id tellus.
   - name: Excursões/Passeios
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      facilisis vel id tellus.
   - name: Convívios familiares
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      facilisis vel id tellus.
   - name: Perceptuação
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      facilisis vel id tellus.
