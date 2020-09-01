@@ -7,7 +7,7 @@ service:
     icon: ti-heart
     content: Visitamos idosos e doentes. Fazemos jogos com crianças de um orfanato.
       Sed id lorem eget orci dictum facilisis vel id tellus.
-  - name: Diversas actividades lúdicas
+  - name: Actividades lúdicas
     icon: ''
     content: 'Por exemplo: Trash art, aprender a fazer nós, fazer sabão. Sed id lorem
       eget orci dictum facilisis vel id tellus.'
