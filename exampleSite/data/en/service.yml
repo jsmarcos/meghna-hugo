@@ -8,9 +8,9 @@ service:
     content: Visitamos idosos e doentes. Fazemos jogos com crianças de um orfanato.
       Sed id lorem eget orci dictum facilisis vel id tellus.
   - name: Actividades lúdicas
-    icon: ''
-    content: 'Por exemplo: Trash art, aprender a fazer nós, fazer sabão. Sed id lorem
-      eget orci dictum facilisis vel id tellus.'
+    icon: ti-star
+    content: 'Por exemplo: Trash art, aulas de ilusionismo, aprender a fazer nós,
+      sabão artesanal, jogos de memória, etc. Sed id lorem eget orci...'
   - name: Programa Akademus
     icon: ti-music-alt
     content: A anunciar brevemente. Sed id lorem eget orci dictum facilisis vel id
