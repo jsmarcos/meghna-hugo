@@ -8,10 +8,11 @@ feature:
     adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate
     nesciunt voluptatibus quasi. '
   feature_item:
-  - title: Voluntariado
+  - title: Espírito solidário
     icon: ti-world
-    content: 'Promoção da proximidade com quem agradece a nossa presença: idosos,
-      doentes, crianças orfãs.'
+    content: 'Além da entreajuda entre os participantes nas actividades do clube,
+      promovemos a proximidade com quem agradece a nossa presença: idosos, doentes,
+      crianças orfãs.'
   - title: Formação Integral
     icon: ti-panel
     content: As atividades do Prisma estão orientadas para o desenvolvimento total
