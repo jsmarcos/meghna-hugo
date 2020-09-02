@@ -2,10 +2,9 @@
 contact:
   enable: true
   title: Contacte-nos
-  subtitle: Dados de contacto
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  subtitle: Informação de contacto
+  content: Contacte-nos para qualquer esclarecimento. Teremos muito gosto em combinar
+    uma visita às instalações do clube. Venham conhecer-nos.
   contact_list:
   - icon: ti-location-pin
     info: Rua Fonseca Pinto, nº 10 | 3000-187 Coimbra
