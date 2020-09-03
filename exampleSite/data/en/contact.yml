@@ -20,5 +20,7 @@ contact:
     name: O seu nome
     email: O seu mail
     subject: Assunto
-    message: Mensagem
+    message: "(Mensagem) Este formulário está ainda em preparação. Por favor, envie
+      a sua mensagem directamente para o endereço de mail indicado à esquerda. Pedimos
+      a sua compreensão."
     submit: Enviar a mensagem
