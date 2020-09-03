@@ -4,10 +4,13 @@ cta:
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   title: 'O Prisma é construído por todos: pais, sócios e monitores'
-  content: "Sim, também pelo Bernardo :) \nTrata-se de em conjunto ajudarmos os rapazes
-    a apontar alto, sendo tão bons estudantes, tão bons filhos, tão bons irmãos e
-    amigos quanto possam ser. ajudando-os também a lidar com as próprias limitações
-    e fracassos. Formamos um edifício robusto. Apoiamo-nos mutuamente."
+  content: "Sim, também pelo Bernardo :) \nFormamos um grupo de famílias amigas. Trata-se
+    de passarmos bons momentos juntos e de juntos pensarmos e contribuirmos para que
+    haja um sinal Mais(+) na sociedade. Queremos ajudarmos os rapazes a apontar alto,
+    sendo tão bons estudantes, tão bons filhos, tão bons irmãos, amigos e cidadãos
+    quanto possam ser. Queremos acompanhá-los nos seus entusiasmos, celebrar os seus
+    sucessos e ajudá-os a lidar com os fracassos e as próprias limitações, que todos
+    temos. Formamos um edifício robusto. Apoiamo-nos mutuamente."
   button:
     enable: true
     label: Inscreve-te hoje
