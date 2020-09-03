@@ -3,10 +3,11 @@ cta:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: O Prisma são os pais, os sócios & os monitores
-  content: Sim, também o Bernardo T. Lorem ipsum dolor sit amet consectetur adipisicing
-    elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis,
-    fugit commodi nostrum. Formamos um edifício robusto. Apoiamo-nos mutuamente.
+  title: 'O Prisma é construído por todos: pais, sócios e monitores'
+  content: "Sim, também pelo Bernardo :) \nTrata-se de em conjunto ajudarmos os rapazes
+    a apontar alto, sendo tão bons estudantes, tão bons filhos, tão bons irmãos e
+    amigos quanto possam ser. ajudando-os também a lidar com as próprias limitações
+    e fracassos. Formamos um edifício robusto. Apoiamo-nos mutuamente."
   button:
     enable: true
     label: Inscreve-te hoje
