@@ -3,26 +3,22 @@ service:
   enable: true
   title: Actividades
   service_item:
-  - name: Voluntariado
-    icon: ti-heart
-    content: Visitamos idosos e doentes. Fazemos jogos com crianças de um orfanato.
-      Sed id lorem eget orci dictum facilisis vel id tellus.
-  - name: Actividades lúdicas
-    icon: ti-star
-    content: 'Por exemplo: Trash art, aulas de ilusionismo, aprender a fazer nós,
-      sabão artesanal, jogos de memória, etc. Sed id lorem eget orci...'
-  - name: Programa Akademus
-    icon: ti-music-alt
-    content: A anunciar brevemente. Sed id lorem eget orci dictum facilisis vel id
-      tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Sala de Estudo
     icon: ti-world
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.
+  - name: Actividades lúdicas
+    icon: ti-star
+    content: 'Por exemplo: Trash art, aulas de ilusionismo, aprender a fazer nós,
+      sabão artesanal, jogos de memória, etc. Sed id lorem eget orci...'
   - name: Desporto
     icon: ti-layout
     content: Hóquei, padel ténis, futebol, freesby, volley de praia. Sed id lorem
       eget orci dictum facilisis vel id tellus.
+  - name: Voluntariado
+    icon: ti-heart
+    content: Visitamos idosos e doentes. Fazemos jogos com crianças de um orfanato.
+      Sed id lorem eget orci dictum facilisis vel id tellus.
   - name: Formação cristã
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
@@ -31,11 +27,15 @@ service:
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.
-  - name: Convívios familiares
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.
   - name: Perceptuação
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.
+  - name: Convívios familiares
+    icon: ti-package
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.
+  - name: Programa Akademus
+    icon: ti-music-alt
+    content: A anunciar brevemente. Sed id lorem eget orci dictum facilisis vel id
+      tellus.Nullam iaculis arcu at mauris dapibus consectetur.
