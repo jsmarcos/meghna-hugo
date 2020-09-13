@@ -4,9 +4,8 @@ feature:
   image: "/images/prisma2.JPG"
   image_webp: "/images/prisma2.JPG"
   title: Um grupo de amigos além da escola
-  content: 'Porque conhecer o Martim, importa! Lorem ipsum dolor sit amet consectetur
-    adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate
-    nesciunt voluptatibus quasi. '
+  content: 'São muitas as gerações que iniciaram no Prisma amizades que perduram pela
+    vida fora. '
   feature_item:
   - title: Espírito solidário
     icon: ti-world
