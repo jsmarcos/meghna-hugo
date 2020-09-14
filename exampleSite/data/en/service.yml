@@ -20,7 +20,7 @@ service:
   - name: Voluntariado
     icon: ti-heart
     content: Visitamos idosos e doentes. Fazemos jogos com crianças de um orfanato.
-      Sed id lorem eget orci dictum facilisis vel id tellus.
+      Participamos nas campanhas do Banco Alimentar.
   - name: Formação cristã
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
