@@ -18,6 +18,6 @@
 - id: services
   translation: Actividades
 - id: blog
-  translation: Blog
+  translation: Blog (actividades recentes)
 - id: contact
   translation: Contactos
