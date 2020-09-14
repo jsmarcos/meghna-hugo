@@ -13,4 +13,4 @@ Para que todos estejam e se sintam em segurança, o Clube inicia as actividades 
 
 Nesta matérias, como noutras, contamos com as sugestões de todos, sobretudo dos pais dos sócios.
 
-Disponibilizamos [AQUI]() um folheto com normas gerais do SNS, já conhecidas de todos.
+Disponibilizamos [AQUI](/images/triptico-covid19-26-02-2020.pdf "Folheto - SNS") um folheto com normas gerais do SNS, já conhecidas de todos.
