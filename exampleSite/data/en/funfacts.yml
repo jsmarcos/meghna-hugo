@@ -1,8 +1,8 @@
 ---
 funfacts:
   enable: true
-  bg_image: images/ipdj_wall5.png
-  bg_image_webp: images/ipdj_wall5.png
+  bg_image: images/ipdj_wall6.png
+  bg_image_webp: images/ipdj_wall6.png
   counter_item:
   - title: Ano da fundação do clube Prisma
     icon: ti-face-smile
