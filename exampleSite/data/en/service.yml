@@ -35,9 +35,9 @@ service:
       com os pais o estimula em aspectos como o estudo, vida familiar, amizades, relação
       com Deus.
   - name: Convívios familiares
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.
+    icon: ti-link
+    content: 'São agradáveis momentos entre as famílias do clube: passeios, visitas,
+      magusto, romarias, festas (ex. Natal).'
   - name: Programa Akademus
     icon: ti-music-alt
     content: A anunciar brevemente. Sed id lorem eget orci dictum facilisis vel id
