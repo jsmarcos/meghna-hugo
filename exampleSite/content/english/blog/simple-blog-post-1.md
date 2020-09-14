@@ -1,19 +1,26 @@
 ---
-title: Visita à Universidade de Coimbra
-date: 2018-09-12T06:52:36.000+00:00
-image_webp: "/images/simon4.jpg"
-image: "/images/simon4.jpg"
+title: Tarde de jogos no Parque Verde do Mondego
+date: 2020-09-12T19:15:36+00:00
+image_webp: "/images/parque-verde-do-mondego.jpg"
+image: "/images/parque-verde-do-mondego.jpg"
 author: João M.
-description: Pátio das Escolas da Universidade de Coimbra - Torre e escadarias de
-  acesso à Via Latina
+description: Ponte Pedro e Inês sobre o Mondelo (Parque Verde)
 
 ---
-Visita à [Universidade de Coimbra](http://www.uc.pt "Universidade de Coimbra"). Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Começámos o ano com uma actividade ao ar livre. O encontro foi no clube, onde colocámos a conversa em dia. Depois fomos de carrinha até ao Parque Verde do Mondego. O parque estava cheio de actividade: paddle surf, canoagem, pic-nics familiares, grupos a jogar volley e futebol, alguns aventureiros a nadar no rio e mesmo a atirar-se da ponte...
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Nós tivemos uma disputada partida de futebol, seguida de lanche e do lema (palestra).
 
-> Não percam a próxima visita, a ser agendada para 2021.
+Informámo-nos sobre as condições para a prática da canoagem. O responsável com quem falámos conhecia o Prisma :)
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Ficámos de combinar uma data para irmos experimentar andar de canoa na zona da ponte pedonal (ponte Pedro e Inês).
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+O dia estava quente, pelo que caiu muito bem a passagem pela praia fluvial Palleira Zorro.
+
+> Passámos na Praia Fluvial Palheira-Zorro (Vale de Canas) para um mergulho!
+
+A temperatura da água estava excelente. Ainda deu para jogar volley de praia.
+
+Aproveitámos, assim, os últimos dias quentes de 2020.
+
+Ficámos ainda a saber que há novos percursos pedestres que passam na prais fuvial (a caminho de penacova, em direcção ao Parque Verde de Coimbra, etc).
