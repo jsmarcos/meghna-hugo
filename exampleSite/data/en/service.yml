@@ -14,9 +14,9 @@ service:
     content: 'Por exemplo: Trash art, aulas de ilusionismo, aprender a fazer nós,
       sabão artesanal, jogos de memória, etc. '
   - name: Desporto
-    icon: ti-layout
-    content: Hóquei, padel ténis, futebol, freesby, volley de praia. Sed id lorem
-      eget orci dictum facilisis vel id tellus.
+    icon: ti-basketball
+    content: 'Hóquei, canoagem, padel ténis, futebol, freesby, ténis, rugby, volley
+      de praia. '
   - name: Voluntariado
     icon: ti-heart
     content: Visitamos idosos e doentes. Fazemos jogos com crianças de um orfanato.
