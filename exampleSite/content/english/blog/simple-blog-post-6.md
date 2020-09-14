@@ -1,19 +1,15 @@
 ---
 title: Simple Blog Post
-date: 2018-09-12T12:52:36.000+06:00
-image_webp: images/blog/blog-post-1.webp
-image: images/blog/blog-post-1.jpg
-author: Mark Dinn
-description: This is meta description
+date: 2020-09-14T08:00:36+00:00
+image_webp: "/images/mundo_seguro.jpg"
+image: "/images/mundo_seguro.jpg"
+author: Direcção
+description: Saúde mundial
 draft: true
 
 ---
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Para que todos estejam e se sintam em segurança, o Clube inicia as actividades do ano lectivo 2020-2021, propondo-se seguir um Plano de Contingência, que poderão ler [AQUI](). O Documento foi elaborado de acordo com a Norma 032/2020 da Direção-Geral da Saúde (DGS),  «Medidas de Prevenção e Controlo em Centros de Atividades de Tempos Livres (CATL)»
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+> Agimos de acordo com as normas da Direcção Geral de Saúde para centros de ATL
 
-> Design is not just what it looks like and feels like. Design is how it works.
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Nesta matérias, como em todas, contamos com as vossas sugestões, sobretudo dos pais dos sócios.
