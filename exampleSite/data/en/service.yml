@@ -30,9 +30,10 @@ service:
     content: Percursos de montanha (Lousã, Bussaco, Estrela, Geres...), trilhos variados,
       visitas culturais, etc.
   - name: Perceptuação
-    icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.
+    icon: ti-cup
+    content: Cada sócio pode baneficiar da ajuda de um perceptor (tutor), que em consonância
+      com os pais o estimula em aspectos como o estudo, vida familiar, amizades, relação
+      com Deus.
   - name: Convívios familiares
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
