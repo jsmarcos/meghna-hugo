@@ -31,13 +31,13 @@ service:
       visitas culturais, etc.
   - name: Perceptuação
     icon: ti-cup
-    content: Cada sócio pode baneficiar da ajuda de um perceptor (tutor), que em consonância
-      com os pais o estimula em aspectos como o estudo, vida familiar, amizades, relação
+    content: Cada sócio pode beneficiar da ajuda de um tutor, que em consonância com
+      os pais o estimula em aspectos como o estudo, vida familiar, amizades, relação
       com Deus.
   - name: Convívios familiares
     icon: ti-link
     content: 'São agradáveis momentos entre as famílias do clube: passeios, visitas,
-      magusto, romarias, festas (ex. Natal).'
+      magusto, romarias, festas (ex. Natal, final do ano). Façam sugestões!'
   - name: Programa Akademus
     icon: ti-music-alt
     content: 'A anunciar brevemente. O  Akademus tem como objectivo oferecer uma variada
