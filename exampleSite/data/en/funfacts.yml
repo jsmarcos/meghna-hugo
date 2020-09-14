@@ -2,7 +2,7 @@
 funfacts:
   enable: true
   bg_image: images/ipdj_wall.png
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  bg_image_webp: images/ipdj_wall.webp
   counter_item:
   - title: Fundação
     icon: ti-face-smile
