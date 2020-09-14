@@ -40,5 +40,6 @@ service:
       magusto, romarias, festas (ex. Natal).'
   - name: Programa Akademus
     icon: ti-music-alt
-    content: A anunciar brevemente. Sed id lorem eget orci dictum facilisis vel id
-      tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 'A anunciar brevemente. O  Akademus tem como objectivo oferecer uma variada
+      palete formativa: artes, orientação profissinal, "soft skills", temas da actualidade
+      e muito mais.'
