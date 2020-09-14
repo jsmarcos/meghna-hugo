@@ -12,7 +12,7 @@ service:
   - name: Actividades lúdicas
     icon: ti-star
     content: 'Por exemplo: Trash art, aulas de ilusionismo, aprender a fazer nós,
-      sabão artesanal, jogos de memória, etc. Sed id lorem eget orci...'
+      sabão artesanal, jogos de memória, etc. '
   - name: Desporto
     icon: ti-layout
     content: Hóquei, padel ténis, futebol, freesby, volley de praia. Sed id lorem
