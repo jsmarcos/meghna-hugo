@@ -21,20 +21,17 @@ pricing:
     - Tutoring
     - Tarde ou dia de Actividades
     button:
-      label: Signup
+      label: Pagar
       link: "#"
-  - name: Gold
-    price: "$199"
-    unit: month
+  - name: Trimestralidade (2 irmãos)
+    price: 80 Euros
+    unit: 3 meses
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Sala de Estudo (2ª a Sábado)
+    - Tutoring
+    - Tarde ou dia de Actividades
     button:
-      label: Signup
+      label: Pagar
       link: "#"
   - name: Platinum
     price: "$299"
