@@ -23,7 +23,7 @@ pricing:
     button:
       label: Pagar
       link: "#"
-  - name: Trimestralidade (2 irmãos)
+  - name: Desconto 2 irmãos
     price: 80 Euros
     unit: 3 meses
     services:
