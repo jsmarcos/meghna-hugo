@@ -2,7 +2,7 @@
 funfacts:
   enable: true
   bg_image: images/ipdj_wall.png
-  bg_image_webp: images/ipdj_wall.webp
+  bg_image_webp: images/ipdj_wall.png
   counter_item:
   - title: Ano da fundação do Clube
     icon: ti-face-smile
