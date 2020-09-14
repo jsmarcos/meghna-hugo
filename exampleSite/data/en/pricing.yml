@@ -13,7 +13,7 @@ pricing:
     button:
       label: Pagar
       link: "#"
-  - name: Trimestralidade
+  - name: Trimestre Completo
     price: 50 Euros
     unit: 3 meses
     services:
