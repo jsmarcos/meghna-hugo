@@ -15,8 +15,8 @@ service:
       sabão artesanal, jogos de memória, etc. '
   - name: Desporto
     icon: ti-basketball
-    content: 'Hóquei, canoagem, padel ténis, futebol, freesby, ténis, rugby, volley
-      de praia. '
+    content: 'Já fizemos um pouco de tudo: Hóquei, canoagem, padel ténis, futebol,
+      freesby, ténis, rugby, volley de praia... '
   - name: Voluntariado
     icon: ti-heart
     content: Visitamos idosos e doentes. Fazemos jogos com crianças de um orfanato.
