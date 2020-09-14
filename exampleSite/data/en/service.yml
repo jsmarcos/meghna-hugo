@@ -4,9 +4,11 @@ service:
   title: Actividades
   service_item:
   - name: Sala de Estudo
-    icon: ti-world
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.
+    icon: ti-book
+    content: |-
+      Em silêncio, para render.
+      2ª, 4ª e 6ªs: das 10h00 às 20h00.
+      3ª e 5ªs: das 9h00 às 20h00.
   - name: Actividades lúdicas
     icon: ti-star
     content: 'Por exemplo: Trash art, aulas de ilusionismo, aprender a fazer nós,
