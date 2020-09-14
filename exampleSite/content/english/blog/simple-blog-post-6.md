@@ -12,3 +12,5 @@ Para que todos estejam e se sintam em segurança, o Clube inicia as actividades 
 > Agimos de acordo com as normas da Direcção Geral de Saúde para centros de ATL
 
 Nesta matérias, como noutras, contamos com as sugestões de todos, sobretudo dos pais dos sócios.
+
+Disponibilizamos [AQUI]() um folheto com normas gerais do SNS, já conhecidas de todos.
