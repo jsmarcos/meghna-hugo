@@ -3,18 +3,15 @@ pricing:
   enable: false
   title: Our Plans
   pricing_table:
-  - name: Free
-    price: "$99"
-    unit: month
+  - name: Actividade Isolada
+    price: 8 Euros
+    unit: Act.
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Sala de Estudo
+    - Tutoring
+    - Tarde ou dia de Actividades
     button:
-      label: Signup
+      label: Pagar
       link: "#"
   - name: Silver
     price: "$149"
