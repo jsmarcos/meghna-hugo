@@ -33,7 +33,7 @@ pricing:
     button:
       label: Pagar
       link: "#"
-  - name: Excursões/Convívios
+  - name: Excursões/ Convívios
     price: Preço a definir
     unit: Act.
     services:
