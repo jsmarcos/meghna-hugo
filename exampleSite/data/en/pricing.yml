@@ -33,16 +33,13 @@ pricing:
     button:
       label: Pagar
       link: "#"
-  - name: Platinum
-    price: "$299"
-    unit: month
+  - name: Excursões/Convívios
+    price: Preço a definir
+    unit: Act.
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Percursos pedestres/Serra
+    - Fim-de-semana de Estudo
+    - Visitas
     button:
-      label: Signup
+      label: Pagar
       link: "#"
