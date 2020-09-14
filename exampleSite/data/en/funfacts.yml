@@ -4,15 +4,15 @@ funfacts:
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
-  - title: Happy Clients
+  - title: Fundação
     icon: ti-face-smile
-    count: "320"
+    count: "1974"
   - title: Projects completed
     icon: ti-archive
     count: "350"
   - title: Positive feedback
     icon: ti-thumb-up
     count: "158"
-  - title: Cups of Coffee
+  - title: Apoio Financeiro
     icon: ti-gift
-    count: "250"
+    count: IPDJ
