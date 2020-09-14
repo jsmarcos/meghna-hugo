@@ -1,6 +1,6 @@
 ---
 funfacts:
-  enable: false
+  enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
@@ -10,9 +10,9 @@ funfacts:
   - title: Projects completed
     icon: ti-archive
     count: "350"
-  - title: Positive feedback
+  - title: Parcerias c/ outras associações
     icon: ti-thumb-up
-    count: "158"
+    count: "6"
   - title: Apoio Financeiro
     icon: ti-gift
     count: IPDJ
