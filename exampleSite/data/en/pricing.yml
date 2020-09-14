@@ -1,7 +1,7 @@
 ---
 pricing:
   enable: true
-  title: Our Plans
+  title: Preços
   pricing_table:
   - name: Actividade Isolada
     price: 8 Euros
