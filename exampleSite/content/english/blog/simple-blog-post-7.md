@@ -1,6 +1,6 @@
 ---
 title: O clube Prisma e o Opus Dei
-date: 2020-09-15T13:00:00+00:00
+date: 2020-09-14T13:00:00+00:00
 image_webp: "/images/nossopadre.jpg"
 image: "/images/nossopadre.jpg"
 author: Direcção
