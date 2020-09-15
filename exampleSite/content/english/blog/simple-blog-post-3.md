@@ -7,7 +7,7 @@ author: Direcção
 description: This is meta description
 
 ---
-As incrições para as actividades do Prisma 2020-2021 estão abertas.
+As incrições para as actividades do Prisma no ano lectivo 2020-2021 estão abertas.
 
 Pedimos a todos que preencham o [formulário](https://forms.gle/7iMyfhwL4BzHTtD9A "Formulário de Inscrição").
 
