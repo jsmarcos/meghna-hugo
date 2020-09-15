@@ -1,6 +1,6 @@
 ---
 title: Plano de contingência
-date: 2020-09-15T08:00:36+00:00
+date: 2020-09-15T07:45:36+00:00
 image_webp: "/images/saudeglobal.jpg"
 image: "/images/saudeglobal.jpg"
 author: Direcção
