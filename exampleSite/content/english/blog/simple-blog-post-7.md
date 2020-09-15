@@ -1,19 +1,16 @@
 ---
-title: Simple Blog Post
+title: O clube Prisma e o Opus Dei
 date: 2018-09-12T12:52:36.000+06:00
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
 author: John Doe
 description: This is meta description
-draft: true
 
 ---
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+A responsabilidade das atividades de formação cristã do Clube Prisma está confiada à [Prelatura do Opus Dei](https://opusdei.org/pt-pt/ "Opus Dei"), que é uma instituição da Igreja Católica fundada em 1928 por S. Josemaría Escrivá. O Opus Dei garante a orientação e a vivificação cristã de todas as atividades do Clube.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Em tudo o resto (questões organizativas, técnicas, gestão económica, aspectos jurídicos, etc.), a responsabilidade corresponde às pessoas que dirigem o Clube, iniciativa de carácter civil.
 
-> Design is not just what it looks like and feels like. Design is how it works.
+> Para saber mais sobre o Opus Dei visite o site [opusdei.pt](https://opusdei.org/pt-pt/ "Opus Dei")
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+A presença do espírito do Opus Dei manifesta-se habitualmente em aspectos como a exigência no estudo, a promoção dos valores sociais e de serviço, o fomento das virtudes humanas, o cuidado dos pequenos detalhes, o respeito pela liberdade pessoal, o clima de confiança e de cordialidade, o protagonismo dos pais no Clube, etc.
