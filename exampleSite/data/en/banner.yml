@@ -1,13 +1,13 @@
 ---
 banner:
   enable: true
-  bg_image_webp: "/images/prismalousamartimafonso_crop.JPG"
-  bg_image: "/images/prismalousamartimafonso_crop.JPG"
+  bg_image_webp: "/images/prismalousamartimafonso_crop2.JPG"
+  bg_image: "/images/prismalousamartimafonso_crop2.JPG"
   icon: ''
   title: 'Clube Prisma '
   content: O Prisma é um espaço para atividades extra-curriculares e de ocupação dos
     tempos livres, em Coimbra. É um centro educativo complementar à família e à escola.
-    Saiba mais, abaixo [Este site está ainda em construção]
+    Saiba mais, abaixo.
   button:
     enable: true
     label: Ao teu estilo
