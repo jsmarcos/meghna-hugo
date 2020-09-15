@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: "/images/prisma2.JPG"
-  image_webp: "/images/prisma2.JPG"
+  image: "/images/prismacepos.JPG"
+  image_webp: "/images/prismacepos.JPG"
   title: Um grupo de amigos além da escola
   content: 'São muitas as gerações que iniciaram no Prisma amizades que perduram pela
     vida fora. '
