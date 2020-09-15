@@ -5,7 +5,6 @@ image_webp: "/images/inscreverprisma.png"
 image: "/images/inscreverprisma.png"
 author: Direcção
 description: This is meta description
-draft: true
 
 ---
 As incrições para as actividades do Prisma 2020-2021 estão abertas.
