@@ -3,7 +3,7 @@ title: O clube Prisma e o Opus Dei
 date: 2018-09-12T12:52:36.000+06:00
 image_webp: "/images/nossopadre.jpg"
 image: "/images/nossopadre.jpg"
-author: John Doe
+author: Direcção
 description: This is meta description
 
 ---
