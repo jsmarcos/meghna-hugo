@@ -1,8 +1,8 @@
 ---
 title: Plano de contingência
 date: 2020-09-15T08:00:36+00:00
-image_webp: "/images/covidsafe.webp"
-image: "/images/covidsafe.webp"
+image_webp: "/images/saudeglobal.jpg"
+image: "/images/saudeglobal.jpg"
 author: Direcção
 description: Saúde mundial
 
