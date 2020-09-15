@@ -4,7 +4,7 @@ date: 2020-09-15T07:52:36+00:00
 image_webp: "/images/inscreverprisma.png"
 image: "/images/inscreverprisma.png"
 author: Direcção
-description: This is meta description
+description: Inscrições
 
 ---
 As incrições para as actividades do Prisma no ano lectivo 2020-2021 estão abertas.
