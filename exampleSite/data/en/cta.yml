@@ -14,4 +14,4 @@ cta:
   button:
     enable: true
     label: Inscreve-te hoje
-    link: "#contact"
+    link: "#blog"
