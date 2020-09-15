@@ -1,9 +1,9 @@
 ---
-title: Simple Blog Post
-date: 2018-09-12T12:52:36.000+06:00
+title: Inscrições
+date: 2020-09-15T07:52:36+00:00
 image_webp: images/blog/blog-post-1.webp
 image: images/blog/blog-post-1.jpg
-author: John Doe
+author: Direcção
 description: This is meta description
 draft: true
 
