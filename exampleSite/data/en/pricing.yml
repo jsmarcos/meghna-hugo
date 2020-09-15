@@ -1,7 +1,7 @@
 ---
 pricing:
   enable: true
-  title: Preços
+  title: Quotas
   pricing_table:
   - name: Actividade Isolada
     price: 8 Euros
