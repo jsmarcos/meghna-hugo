@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: "/images/prismalousamartimafonso_crop2.JPG"
-  bg_image: "/images/prismalousamartimafonso_crop2.JPG"
+  bg_image_webp: "/images/prismafotosite_banner.jpg"
+  bg_image: "/images/prismafotosite_banner.jpg"
   icon: ''
   title: 'Clube Prisma '
   content: O Prisma é um espaço para atividades extra-curriculares e de ocupação dos
