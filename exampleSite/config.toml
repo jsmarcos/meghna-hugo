@@ -66,7 +66,7 @@ enable = true
 gmap_api = "https://goo.gl/maps/ujQe23yQd4o48yvM8"
 map_latitude = "40.221896"
 map_longitude = "-8.407923"
-map_marker = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1811.4214676083534!2d-8.409848292854837!3d40.22161522313725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd22f96f50fd2f9f%3A0xc91db3696c6759b9!2sR.%20Fonseca%20Pinto%2010%2C%203000-187%20Coimbra!5e0!3m2!1sen!2spt!4v1600445819945!5m2!1sen!2spt"
+map_marker = ""
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
