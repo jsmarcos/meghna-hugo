@@ -62,7 +62,7 @@ google_analytics_id = ""
 logo = "images/logoprisma.png"
 post_share = true
 [params.map]
-enable = false
+enable = true
 gmap_api = "https://goo.gl/maps/ujQe23yQd4o48yvM8"
 map_latitude = "40.221896"
 map_longitude = "-8.407923"
