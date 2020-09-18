@@ -1,11 +1,10 @@
 ---
 title: Actividades 9º-12º ano
-date: 2018-09-09T07:03:36+00:00
+date: 2020-09-09T07:03:36+00:00
 image_webp: "/images/maisvelhos.png"
 image: "/images/maisvelhos.png"
-author: John Doe
+author: Direcção
 description: This is meta description
-draft: true
 
 ---
 Na esperança de que as férias tenham corrido bem, publicamos as informações relativas ao início das atividades do **Clube Prisma 2020/2021** para o grupo do **9º ao 12º anos.**
