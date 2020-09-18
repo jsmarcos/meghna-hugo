@@ -1,11 +1,10 @@
 ---
 title: Actividades 5º - 8º ano
 date: 2020-09-09T07:05:36+00:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
+image_webp: "/images/maisnovos.png"
+image: "/images/maisnovos.png"
 author: Direcção
 description: This is meta description
-draft: true
 
 ---
 Na esperança de que as férias tenham corrido bem, enviamos as informações relativas ao início das atividades do **Clube Prisma 2020/2021** para os mais novos (**5º - 8º anos**).
