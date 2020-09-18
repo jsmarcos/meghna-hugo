@@ -15,11 +15,12 @@ Regularmente, as atividades serão todos os sábados **a partir das 15h00**. Adi
 
 **Horário aos Sábados**:
 
-* 15h00 Estudo 
+* 15h00 Estudo
 * 16h30 Lanche
 * 16h45 Lema/Palestra
 * 17h00 Actividade
 * 18h30 Fim
 
-  
+![](/images/maisnovos.png)![](/images/maisnovosset.png)
+
 Aproveitamos para informar que dias **19 e 20 de setembro** (sábado e domingo, respetivamente) teremos uma **excursão ao Talasnal (Serra da Lousã)**, para a qual pedimos **confirmações até ao dia 15** (mais detalhes em breve).
