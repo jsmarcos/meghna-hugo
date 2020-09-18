@@ -1,19 +1,25 @@
 ---
 title: Actividades 9º-12º ano
 date: 2018-09-09T07:03:36+00:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
+image_webp: "/images/maisvelhos.png"
+image: "/images/maisvelhos.png"
 author: John Doe
 description: This is meta description
 draft: true
 
 ---
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Na esperança de que as férias tenham corrido bem, publicamos as informações relativas ao início das atividades do **Clube Prisma 2020/2021** para o grupo do **9º ao 12º anos.**
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+> O primeiro dia de atividades será **dia 11 de setembro**.
 
-> Design is not just what it looks like and feels like. Design is how it works.
+Regularmente, as atividades serão todas as sextas-feiras **a partir das 14h30**. Adicionalmente, serão organizadas excursões ou planos alternativos. 
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Horário às Sextas:
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+* 14h30 Estudo
+* 18h00 Lanche
+* 18h30 Meditação (oração na capela do clube, ao fio da pregação do sacerdote)
+* 19h00 Actividade
+* 20h00 Fim
+
+Aproveitamos para informar que nos dias **25, 26 e 27 de setembro** (sexta, sábado e domingo respetivamente), haverá um **Retiro Espiritual** em Enxomil (Miramar). As **inscrições decorrem até dia 16**, quarta-feira. Para mais informações, ligar para o clube: 239 484 625.
