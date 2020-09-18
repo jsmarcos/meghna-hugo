@@ -23,7 +23,7 @@ service:
       Participamos nas campanhas do Banco Alimentar.
   - name: Formação cristã
     icon: ti-control-pause
-    content: 'Para quem queira, há palestra sobre a vida cristã: doutrina católica
+    content: 'Para quem queira, há palestras sobre a vida cristã: doutrina católica
       e virtudes.O Prisma tem capela e um sacerdote disponível.'
   - name: Excursões/Passeios
     icon: ti-direction
