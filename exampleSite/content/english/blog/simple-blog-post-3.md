@@ -13,7 +13,7 @@ Pedimos a todos que preencham o [formulário](https://forms.gle/7iMyfhwL4BzHTtD9
 
 > Se ainda não conhece o clube, telefone a marcar uma visita com toda a família!
 
-Quanto ao **pagamento das quota**s de sócio:
+Quanto ao **pagamento das quotas** de sócio:
 
 A trimestralidade deverá ser paga até ao dia 20 do primeiro mês, sendo que:
 
