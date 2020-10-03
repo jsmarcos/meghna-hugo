@@ -43,13 +43,3 @@ pricing:
     button:
       label: Pagar
       link: "#"
-  - name: Excursões/ Convívios
-    price: A definir
-    unit: Act.
-    services:
-    - Percursos pedestres/Serra
-    - Fim-de-semana de Estudo
-    - Visitas
-    button:
-      label: Pagar
-      link: "#"
