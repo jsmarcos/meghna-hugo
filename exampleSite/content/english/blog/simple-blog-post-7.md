@@ -1,6 +1,6 @@
 ---
 title: O Prisma e o Opus Dei
-date: 2020-09-14T13:00:00+00:00
+date: 2020-10-02T23:00:00+00:00
 image_webp: "/images/nossopadre.jpg"
 image: "/images/nossopadre.jpg"
 author: Direcção
