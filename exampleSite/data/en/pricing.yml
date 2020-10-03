@@ -42,4 +42,4 @@ pricing:
     - Tarde ou dia de Actividades
     button:
       label: Pagar
-      link: "#"
+      link: blog/simple-blog-post-3/
