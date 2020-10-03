@@ -12,7 +12,7 @@ pricing:
     - Tarde ou dia de Actividades
     button:
       label: Pagar
-      link: "#"
+      link: "#blog/simple-blog-post-3/"
   - name: Trimestre Completo
     price: 50 Euros
     unit: 3 meses
