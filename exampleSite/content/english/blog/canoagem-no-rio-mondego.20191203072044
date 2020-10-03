@@ -2,6 +2,7 @@
 author = "João M."
 date = 2020-10-03T18:00:00Z
 description = "Canoagem no rio Mondego"
+draft = true
 image = "/images/canoagem.png"
 image_webp = "/images/canoagem.png"
 title = "Canoagem no rio Mondego"
