@@ -24,7 +24,7 @@ pricing:
       label: Pagar
       link: "#"
   - name: Desconto 2 irmãos
-    price: 80 Euros
+    price: 75 Euros
     unit: 3 meses
     services:
     - Sala de Estudo (2ª a Sábado)
