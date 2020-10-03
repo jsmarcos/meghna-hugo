@@ -25,7 +25,7 @@ A trimestralidade deverá ser paga até ao dia 20 do primeiro mês, sendo que:
 
 Os pagamentos podem ser feitos por transferência bancária para o 
 
-IBAN PT50 0033 0000 45383870733 05 (Clube Prisma Assoc Juvenil C Desportiva) ou em dinheiro. 
+IBAN **PT50 0033 0000 45383870733 05** (Clube Prisma Assoc Juvenil C Desportiva) ou em dinheiro. 
 
 As atividades isoladas poderão ser pagas no próprio dia ou no final de cada trimestre.
 
