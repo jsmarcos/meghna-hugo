@@ -35,8 +35,9 @@ pricing:
       link: "#"
   - name: Desconto 3 irmãos
     price: 90 Euros
-    unit: ''
-    services: ''
+    unit: 3 meses
+    services:
+    - Sala de Estudo (2ª a Sábado)
     button: ''
   - name: Excursões/ Convívios
     price: A definir
