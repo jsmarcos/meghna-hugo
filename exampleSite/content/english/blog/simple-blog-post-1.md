@@ -1,10 +1,11 @@
 ---
 title: Tarde de jogos no Parque Verde do Mondego
-date: 2020-09-12T19:15:36+00:00
+date: 2020-09-12T19:15:36.000+00:00
 image_webp: "/images/parque-verde-do-mondego.jpg"
 image: "/images/parque-verde-do-mondego.jpg"
 author: João M.
 description: Ponte Pedro e Inês sobre o Mondelo (Parque Verde)
+draft: true
 
 ---
 Começámos o ano com uma actividade ao ar livre. O encontro foi no clube, onde colocámos a conversa em dia. Depois fomos de carrinha até ao Parque Verde do Mondego. O parque estava cheio de actividade: paddle surf, canoagem, pic-nics familiares, grupos a jogar volley e futebol, alguns aventureiros a nadar no rio e mesmo a atirar-se da ponte...
