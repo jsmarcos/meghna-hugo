@@ -32,7 +32,7 @@ pricing:
     - Tarde ou dia de Actividades
     button:
       label: Pagar
-      link: "#"
+      link: blog/simple-blog-post-3/
   - name: Desconto 3 irmãos
     price: 90 Euros
     unit: 3 meses
