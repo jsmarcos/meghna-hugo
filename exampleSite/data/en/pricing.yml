@@ -33,6 +33,11 @@ pricing:
     button:
       label: Pagar
       link: "#"
+  - name: Desconto 3 irmãos
+    price: 90 Euros
+    unit: ''
+    services: ''
+    button: ''
   - name: Excursões/ Convívios
     price: A definir
     unit: Act.
