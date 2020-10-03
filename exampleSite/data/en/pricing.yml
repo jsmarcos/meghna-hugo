@@ -38,6 +38,8 @@ pricing:
     unit: 3 meses
     services:
     - Sala de Estudo (2ª a Sábado)
+    - Tutoring
+    - Tarde ou dia de Actividades
     button: ''
   - name: Excursões/ Convívios
     price: A definir
