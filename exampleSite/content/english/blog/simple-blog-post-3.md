@@ -1,6 +1,6 @@
 ---
 title: Inscrições
-date: 2020-09-15T07:52:36.000+00:00
+date: 2020-10-02T23:00:00+00:00
 image_webp: "/images/inscreverprisma.png"
 image: "/images/inscreverprisma.png"
 author: Direcção
