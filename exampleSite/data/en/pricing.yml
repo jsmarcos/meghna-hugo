@@ -40,7 +40,9 @@ pricing:
     - Sala de Estudo (2ª a Sábado)
     - Tutoring
     - Tarde ou dia de Actividades
-    button: ''
+    button:
+      label: Pagar
+      link: "#"
   - name: Excursões/ Convívios
     price: A definir
     unit: Act.
