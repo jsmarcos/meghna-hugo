@@ -1,6 +1,6 @@
 +++
 author = "Direcção"
-date = 2020-10-02T23:00:00Z
+date = 2020-10-03T19:00:00Z
 description = "Saúde mundial"
 image = "/images/canoagem.png"
 image_webp = "/images/canoagem.png"
