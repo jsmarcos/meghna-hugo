@@ -27,4 +27,20 @@ Ficámos ainda a saber que há novos percursos pedestres que passam na prais fuv
 
 E a recordação de algumas actividades passadas:
 
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Page Title</title>
+
+</head>
+
+<body>
+
 <iframe src="[https://albumizr.com/a/-qhB](https://albumizr.com/a/-qhB "https://albumizr.com/a/-qhB")" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
+
+</body>
+
+</html>
