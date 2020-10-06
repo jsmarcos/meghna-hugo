@@ -1,6 +1,6 @@
 ---
 title: Tarde de jogos no Parque Verde do Mondego
-date: 2020-09-12T19:15:36+00:00
+date: 2020-09-12T19:15:36.000+00:00
 image_webp: "/images/parque-verde-do-mondego.jpg"
 image: "/images/parque-verde-do-mondego.jpg"
 author: João M.
@@ -24,8 +24,6 @@ A temperatura da água estava excelente. Ainda deu para jogar volley de praia.
 Aproveitámos, assim, os últimos dias quentes de 2020.
 
 Ficámos ainda a saber que há novos percursos pedestres que passam na prais fuvial (a caminho de penacova, em direcção ao Parque Verde de Coimbra, etc).
-
-E a recordação de algumas actividades passadas:
 
 <!DOCTYPE html>
 
