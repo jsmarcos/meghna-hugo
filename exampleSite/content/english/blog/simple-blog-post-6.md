@@ -1,16 +1,18 @@
 ---
-title: Plano de contingência 2020-2021
-date: 2021-03-31T23:00:00+00:00
+title: Regulamento Interno 2020-2021
+date: 2021-05-17T23:00:00+00:00
 image_webp: "/images/mundo_seguro.jpg"
 image: "/images/mundo_seguro.jpg"
 author: Direção
 description: Saúde mundial
 
 ---
-Para que todos estejam e se sintam em segurança, o Clube inicia as actividades do ano lectivo 2020-2021, propondo-se seguir um Plano de Contingência, que poderão ler [AQUI](/images/planocontingenciaprisma.pdf "Plano de contingência"). O Documento foi elaborado de acordo com a Norma 032/2020 da Direção-Geral da Saúde (DGS),  «Medidas de Prevenção e Controlo em Centros de Atividades de Tempos Livres (CATL)»
+Pode descarregar e ler o [Regulamento Interno do clube para o ano 2020/2021](/images/regulamento-interno-para-a-organizacao-das-atividades.pdf "Regulamento Interno do clube para o ano 2020/2021").
 
-> Agimos de acordo com as normas da Direcção Geral de Saúde para centros de ATL
+Caso tenha algum comentário a fazer, por favor entre em contacto connosco
 
-Nesta matérias, como noutras, contamos com as sugestões de todos, sobretudo dos pais dos sócios.
+239484625 | prism.club@gmail.com
 
-Disponibilizamos [AQUI](/images/triptico-covid19-26-02-2020.pdf "Folheto - SNS") um folheto com normas gerais do SNS, já conhecidas de todos.
+Atenciosamente,
+
+A Direcção
