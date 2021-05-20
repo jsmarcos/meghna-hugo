@@ -1,9 +1,9 @@
 ---
 title: Plano de contingência 2020-2021
-date: 2020-10-02T23:00:00.000+00:00
+date: 2021-03-31T23:00:00+00:00
 image_webp: "/images/mundo_seguro.jpg"
 image: "/images/mundo_seguro.jpg"
-author: Direcção
+author: Direção
 description: Saúde mundial
 
 ---
