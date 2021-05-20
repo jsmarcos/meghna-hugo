@@ -1,6 +1,6 @@
 ---
 title: Regulamento Interno 2020/2021
-date: 2021-05-17T23:00:00+00:00
+date: 2020-10-04T23:00:00+00:00
 image_webp: "/images/regulamento-dest.jpg"
 image: "/images/regulamento-dest.jpg"
 author: Direção
