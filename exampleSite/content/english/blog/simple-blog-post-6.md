@@ -1,5 +1,5 @@
 ---
-title: Regulamento Interno 2020-2021
+title: Regulamento Interno 2020/2021
 date: 2021-05-17T23:00:00+00:00
 image_webp: "/images/mundo_seguro.jpg"
 image: "/images/mundo_seguro.jpg"
