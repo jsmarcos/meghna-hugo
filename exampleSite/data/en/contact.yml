@@ -13,7 +13,7 @@ contact:
   - icon: ti-printer
     info: 'Fax: isso era antigamente :)'
   - icon: ti-email
-    info: 'Email: geral@clubeprisma.pt'
+    info: 'Email: prism.clube@gmail.com'
   contact_form:
     enable: true
     form_action: "#"
