@@ -11,7 +11,7 @@ Pode descarregar e ler o [Regulamento Interno do clube para o ano 2020/2021](/im
 
 Caso tenha algum comentário a fazer, por favor entre em contacto connosco
 
-239484625 | prism.club@gmail.com
+239484625 | prism.clube@gmail.com
 
 Atenciosamente,
 
