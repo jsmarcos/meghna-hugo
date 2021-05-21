@@ -41,5 +41,5 @@ service:
   - name: Programa Akademus
     icon: ti-music-alt
     content: 'A anunciar brevemente. O  Akademus tem como objectivo oferecer uma variada
-      palete formativa: artes, orientação profissinal, "soft skills", temas da actualidade
+      palete formativa: artes, orientação profissional, "soft skills", temas da actualidade
       e muito mais.'
