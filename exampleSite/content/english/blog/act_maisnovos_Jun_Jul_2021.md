@@ -23,7 +23,7 @@ O calendário de actividades do **grupo do 5º-8º ano** para Junho e Junho foi 
 16-18 (Sexta-Dom): Mini-acampamento (Viseu)  
 
 
-O **horário** é o seguinte:  
+> O **horário** é o seguinte:  
 
 15h00 Estudo  
 15h45 Lema/Palestra  
