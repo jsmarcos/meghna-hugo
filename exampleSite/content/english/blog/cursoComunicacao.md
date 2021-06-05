@@ -8,9 +8,11 @@ title = "Workshop de Comunicação"
 
 +++
 O recente workshop de comunicação foi um sucesso, segundo os participantes!
+Deixamos o registo de apenas um momento:
 
-![](/images/worshopcomunicacao.jpg)
+![](/images/worshopcomunicacao_tn.jpg)
 
 > Agradecemos ao Dr. Nuno Hélder a disponibilidade e o entusiamo e conteúdos transmitidos.
 
 Tivemos a revelação de vários _speakers_!
+Parabéns a todos.
