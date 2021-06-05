@@ -7,12 +7,14 @@ image_webp = "/images/workshopcomunicacao_dr_nunoheldersilva.png"
 title = "Workshop de Comunicação"
 
 +++
-O recente workshop de comunicação foi um sucesso, segundo os participantes!
-Deixamos o registo de apenas um momento:
+> O recente workshop de comunicação foi um sucesso, segundo os participantes!  
+Deixamos o registo de um momento:
 
 ![](/images/worshopcomunicacao_tn.jpg)
 
-> Agradecemos ao Dr. Nuno Hélder a disponibilidade e o entusiamo e conteúdos transmitidos.
+Agradecemos ao Dr. Nuno Hélder a disponibilidade e o entusiamo e conteúdos transmitidos.  
 
-Tivemos a revelação de vários _speakers_!
+Tivemos a revelação de vários _speakers_!  
 Parabéns a todos.
+
+O jantar volante (pizza desta vez) foi apreciado e proporcionou agradáveis conversas.
