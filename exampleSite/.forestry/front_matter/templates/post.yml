@@ -22,7 +22,3 @@ fields:
   name: description
   label: description
   description: meta description
-pages:
-- exampleSite/content/english/blog/plano-de-contingencia-2020-2021.20191203072044
-- exampleSite/content/english/blog/workshop-de-comunicacao-dr.nuno-helder-silva.20191203072044
-- exampleSite/content/english/blog/workshop-de-comunicacao.20191203072044
