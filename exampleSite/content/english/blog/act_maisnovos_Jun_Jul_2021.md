@@ -7,23 +7,23 @@ author: Direcção
 description: This is meta description
 
 ---
-> O calendário de actividades do **grupo do 5º-8º ano** para Junho e Junho foi actualizado. 
+O calendário de actividades do **grupo do 5º-8º ano** para Junho e Junho foi actualizado. 
 
-**Junho**
+> **Junho**
 
 5 Junho (Sáb): Jogos ao ar livre
 12 Junho (Sáb): Foguetes de água
 19-20 (Sáb-Dom): Excursão ao Talasnal (dia completo)
 26 Junho (Sáb): Missa de S. Josemaria
 
-**Julho**
+> **Julho**
 
 3 Julho (Sáb): Futebol
 10 Julho (Sáb): Canoagem
 16-18 (Sexta-Dom): Mini-acampamento (Viseu)
 
 
-> O horário habitual é o seguinte:
+O **horário** é o seguinte:
 
 15h00 Estudo
 15h45 Lema/Palestra
