@@ -10,8 +10,10 @@ title = "Workshop de Comunicação"
 > O recente workshop de comunicação foi um sucesso, segundo os participantes!  
 Deixamos o registo de alguns momentos:
 
-![](/images/workshopcomunicacao2_shorter.png)
-![](/images/workshopcomunicacao4_shorter.png)
+![](/images/workshopcomunicacao2_shorter.png)  
+
+![](/images/workshopcomunicacao4_shorter.png)  
+
 ![](/images/workshopcomunicacao3_shorter.png)
 
 
