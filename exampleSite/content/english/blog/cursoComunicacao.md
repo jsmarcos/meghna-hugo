@@ -12,7 +12,7 @@ Deixamos o registo de alguns momentos:
 
 ![](/images/workshopcomunicacao2_sh.png)
 ![](/images/workshopcomunicacao4_sh.png)
-![](/images/workshopcomunicacao3_sh.jpg)
+![](/images/workshopcomunicacao3_sh.jng)
 
 
 Agradecemos ao Dr. Nuno Hélder a disponibilidade e o entusiamo e conteúdos transmitidos.  
