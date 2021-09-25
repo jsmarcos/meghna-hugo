@@ -6,9 +6,10 @@ banner:
   icon: ''
   title: 'Clube Prisma '
   content: O Prisma é um espaço para atividades extra-curriculares e de ocupação dos
-    tempos livres, em Coimbra. É uma obra coorporativa do Opus Dei. É um centro educativo
-    complementar à família e à escola. Para rapazes do 5º ao 12º ano, com actividades
-    divididas por faixas etárias. Saiba mais, abaixo.
+    tempos livres, em Coimbra. É um centro educativo complementar à família e à escola.
+    A formação religiosa católica (facultativa) é dada em colaboração com o Opus Dei.
+    Para rapazes do 5º ao 12º ano, com actividades divididas por faixas etárias. Saiba
+    mais, abaixo.
   button:
     enable: true
     label: Ao teu estilo
