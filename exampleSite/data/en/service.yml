@@ -12,7 +12,7 @@ service:
   - name: Actividades lúdicas
     icon: ti-star
     content: 'Por exemplo: Trash art, aulas de ilusionismo, aprender a fazer nós,
-      sabão artesanal, jogos de memória, etc. '
+      sabão artesanal, jogos de memória, jogos de (Party & Co., Cluedo, Risco), etc. '
   - name: Desporto
     icon: ti-basketball
     content: 'Já fizemos um pouco de tudo: Hóquei, canoagem, padel ténis, futebol,
@@ -29,10 +29,10 @@ service:
     icon: ti-direction
     content: Percursos de montanha (Lousã, Bussaco, Estrela, Geres...), trilhos variados,
       visitas culturais, etc.
-  - name: Perceptuação
+  - name: Preceptorado
     icon: ti-cup
-    content: Cada sócio pode beneficiar da ajuda de um tutor, que em consonância com
-      os pais o estimula em aspectos como o estudo, vida familiar, amizades, relação
+    content: Cada sócio pode beneficiar da ajuda de um preceptor (tutor), que em consonância
+      com os pais o estimula em aspectos como o estudo, vida familiar, amizades, relação
       com Deus.
   - name: Convívios familiares
     icon: ti-link
