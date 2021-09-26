@@ -1,36 +1,32 @@
 ---
-title: Actividades 9º-12º ano
-date: 2021-06-05T09:03:36+00:00
-image_webp: "/images/act-grupo-9-12-junho-junho-2021.png"
-image: "/images/act-grupo-9-12-junho-junho-2021.png"
+title: Actividades 9º-12º ano (Set-Dez 2021)
+date: 2021-09-26T09:03:36+00:00
+image_webp: "/images/act-grupo-9-12-set-dez-2021-smaller.png"
+image: "/images/act-grupo-9-12-set-dez-2021-smaller.png"
 author: Direcção
 description: This is meta description
 
 ---
-O calendário de actividades do **grupo do 9º-12º ano** para Junho e Junho foi actualizado. 
+Regularmente, as atividades serão todas as sextas-feiras **a partir das 14h30**.
 
-> **Junho**
+Em algumas semanas haverá jantar (17 Set, 1 Out, 12 Nov, 26 Nov, 17 Dez).
 
-1 Junho (Terça, online): Recolecção + 1ª sessão do Workshop de comunicação  
-4 Junho (Sexta): 2ª sessão do Workshop de comunicação, 18h15-22h30 (com jantar)  
-11-13 Junho (Sexta-Dom): Excursão a Viseu  
-18 Junho (Sexta): Tertúlia com convidado  
-25 Junho (Sexta): Recolecção + Jantar + Filme  
-26 Junho (Sáb): Missa de S. Josemaria  
+**Horário às Sextas**:
 
-> **Julho**
+* 14h30 Estudo
+* 17h15 Lanche
+* 17h30 Continuação do Estudo (ou palestra formativa)
+* 18h30 Actividade
+* 19h30 Meditação (oração na capela do clube, ao fio da pregação do sacerdote)
+* 20h00 Fim (ou jantar)
 
-2 Julho (Sexta): Jogo de tabuleiro  
-9-11 Julho (Sexta-Dom): Excursão ao Porto  
-15 Julho (Quinta!): Tertúlia com convidado  
-22 Julho (Quinta!): Recolecção + Jantar + Filme  
+Quando há jantar a actividade termina pelas 23h00.
 
-As atividades decorrem às sextas-feiras **a partir das 14h30**. 
+> A **Sala de Estudo** está aberta todos os dias a apartir das 14h30.
 
-> Horário às Sextas:
+Serão organizadas excursões ou planos alternativos.
 
- * 14h30 Estudo
- * 17h45 Lanche
- * 18h00 Actividade
- * 19h15 Meditação (oração na capela do clube, ao fio da pregação do sacerdote)
- * 19h45 Fim
+> Destacamos duas saídas em Outubro:
+>
+> 1. A **Excursão ao Porto**, que terá componentes desportivas e culturais, além da visita a alguns ligares emblemáticos da cidade invicta. Será uma _joint venture_ com o clube Vega.
+> 2. **Caminhos de Santiago** a pé (começaremos já em Espanha). Aproveitaremos o feriado de 1 de Novembro.
