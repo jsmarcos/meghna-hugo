@@ -16,9 +16,9 @@ feature:
     icon: ti-panel
     content: As atividades do Prisma estão orientadas para o desenvolvimento total
       da pessoa, segundo uma perspetiva cristã. Têm sempre um fim formativo.
-  - title: Perceptuação
+  - title: 'Preceptorado '
     icon: ti-stats-up
-    content: Cada sócio tem um perceptor, que colabora com a família na acção formativa.
+    content: Cada sócio tem um preceptor, que colabora com a família na acção formativa.
       É um amigo com experiência que incentiva, anima e aconselha, numa relação de
       amizade e confiança.
   - title: Liberdade
