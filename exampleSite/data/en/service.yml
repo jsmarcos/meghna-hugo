@@ -11,9 +11,9 @@ service:
       3ª e 5ªs: das 9h00 às 20h00.
   - name: Actividades lúdicas
     icon: ti-star
-    content: 'Por exemplo: Pesca, "trash art", aulas de ilusionismo, aprender a fazer
-      nós, sabão artesanal, jogos de memória, jogos de tabuleiro (Party & Co., Cluedo,
-      Risco), "Chef" por um dia, Gincanas de jogos tradicionais, etc. '
+    content: 'Pesca, "trash art", aulas de ilusionismo, como fazer nós, sabão artesanal,
+      jogos (memória, Party & Co., Cluedo, Risco), "Chef" por um dia, jogos tradicionais,
+      etc. '
   - name: Desporto
     icon: ti-basketball
     content: 'Já fizemos um pouco de tudo: Hóquei, canoagem, padel ténis, futebol,
