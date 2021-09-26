@@ -1,8 +1,7 @@
 +++
 author = "Direcção"
-date = 2021-06-05T09:03:36Z
+date = 2021-04-01T09:03:36Z
 description = "This is meta description"
-draft = true
 image = "/images/act-grupo-5-8-junho-junho-2021.png"
 image_webp = "/images/act-grupo-5-8-junho-junho-2021.png"
 title = "Actividades 5º-8º ano (Junho - Julho 2021)"
