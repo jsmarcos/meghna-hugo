@@ -12,8 +12,7 @@ service:
   - name: Actividades lúdicas
     icon: ti-star
     content: 'Pesca, "trash art", aulas de ilusionismo, como fazer nós, sabão artesanal,
-      jogos (memória, Party & Co., Cluedo, Risco), "Chef" por um dia, jogos tradicionais,
-      etc. '
+      jogos (Party & Co., Cluedo, Risco,tradicionais), "Chef" por um dia, etc. '
   - name: Desporto
     icon: ti-basketball
     content: 'Já fizemos um pouco de tudo: Hóquei, canoagem, padel ténis, futebol,
