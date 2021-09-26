@@ -18,7 +18,7 @@ Vamos servir-nos de diferentes metedologias e acreditamos que aprenderemos diver
 Também contamos que haja ao longo do ano sessões sobre História e Geografia, além de outros idiomas.
 
 > **Horário habitual:**
-
+>
 > 15h30: Estudo ou Leitura
 >
 > 16h00: Palestra
