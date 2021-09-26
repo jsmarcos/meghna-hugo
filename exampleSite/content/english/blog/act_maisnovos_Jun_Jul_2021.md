@@ -11,7 +11,7 @@ description: This is meta description
 
 NOVIDADE! Este ano teremos duas actividades por tarde: uma até ao lanche (mais curta: 30 ou 45m) e outra depois do lanche.
 
-> Na 1ª actividade começaremos com uma **Introdução à língua francesa__ - **"Français pour tous" **
+> Na 1ª actividade começaremos com uma **Introdução à língua francesa** - "Français pour tous" 
 
 Vamos servir-nos de diferentes metedologias e acreditamos que aprenderemos divertindo-nos.
 
