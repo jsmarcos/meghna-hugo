@@ -1,5 +1,5 @@
 ---
-title: Actividades 9º-12º ano (Set-Dez 2021)
+title: Actividades 9º-12º ano (Set - Dez 2021)
 date: 2021-09-26T09:03:36+00:00
 image_webp: "/images/act-grupo-9-12-set-dez-2021-smaller.png"
 image: "/images/act-grupo-9-12-set-dez-2021-smaller.png"
