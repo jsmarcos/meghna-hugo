@@ -1,31 +1,33 @@
 ---
-title: Actividades 5º-8º ano
-date: 2021-06-05T09:03:36+00:00
-image_webp: "/images/act-grupo-5-8-junho-junho-2021.png"
-image: "/images/act-grupo-5-8-junho-junho-2021.png"
+title: Actividades 5º-8º ano (Set - Dez 2021)
+date: 2021-09-26T09:03:36+00:00
+image_webp: "/images/act-grupo-5-8-set-dez-2021-smaller.png"
+image: "/images/act-grupo-5-8-set-dez-2021-smaller.png"
 author: Direcção
 description: This is meta description
 
 ---
-O calendário de actividades do **grupo do 5º-8º ano** para Junho e Junho foi actualizado. 
+**Apresentamos as actividades do primeiro período para o grupo do 5º-8 ano**
 
-> **Junho**  
+NOVIDADE! Este ano teremos duas actividades por tarde: uma até ao lanche (mais curta: 30 ou 45m) e outra depois do lanche.
 
-5 Junho (Sáb): Jogos ao ar livre  
-12 Junho (Sáb): Foguetes de água  
-19-20 (Sáb-Dom): Excursão ao Talasnal (dia completo)  
-26 Junho (Sáb): Missa de S. Josemaria  
+> Na 1ª actividade começaremos com uma **Introdução à língua francesa__ - **"Français pour tous" **
 
-> **Julho**  
+Vamos servir-nos de diferentes metedologias e acreditamos que aprenderemos divertindo-nos.
 
-3 Julho (Sáb): Futebol  
-10 Julho (Sáb): Canoagem  
-16-18 (Sexta-Dom): Mini-acampamento (Viseu)  
+Também contamos que haja ao longo do ano sessões sobre História e Geografia, além de outros idiomas.
 
+> **Horário habitual:**
 
-> O **horário** é o seguinte:  
+> 15h30: Estudo ou Leitura
+>
+> 16h00: Palestra
+>
+> 16h15: 1ª Actividade: "Français pour tous"
+>
+> 17h00: Lanche
+>
+> 17h15: 2ª Actividade  
+> 18h30: Final
 
-15h00 Estudo  
-15h45 Lema/Palestra  
-16h00 Actividade (trazer lanche)  
-18h30 Final  
+Quem quiser, pode vir estudar a partir das 15h00.
