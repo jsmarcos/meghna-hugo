@@ -2,7 +2,6 @@
 author = "Direcção"
 date = 2022-01-30T10:03:36Z
 description = "This is meta description"
-draft = true
 image = "/images/calendario-9-12-jan-abr-2022.jpg"
 image_webp = "/images/calendario-9-12-jan-abr-2022.jpg"
 title = "Actividades do grupo 9º-12º ano (Jan - Abr 2022)"
