@@ -1,6 +1,6 @@
 ---
 title: Inscrições
-date: 2021-09-14T23:00:00+00:00
+date: 2022-01-29T00:00:00+00:00
 image_webp: "/images/inscreverprisma.png"
 image: "/images/inscreverprisma.png"
 author: Direcção
