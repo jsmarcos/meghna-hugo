@@ -1,16 +1,16 @@
 +++
 author = "Direcção"
-date = 2021-09-26T09:03:36Z
+date = 2022-01-30T10:03:36Z
 description = "This is meta description"
 draft = true
-image = "/images/act-grupo-9-12-set-dez-2021-smaller.png"
-image_webp = "/images/act-grupo-9-12-set-dez-2021-smaller.png"
+image = "/images/calendario-9-12-jan-abr-2022.jpg"
+image_webp = "/images/calendario-9-12-jan-abr-2022.jpg"
 title = "Actividades do grupo 9º-12º ano (Jan - Abr 2022)"
 
 +++
-Regularmente, as atividades serão todas as sextas-feiras **a partir das 14h30**.
+Atividades todas as sextas-feiras **a partir das 14h30**.
 
-Em algumas semanas haverá jantar (17 Set, 1 Out, 12 Nov, 26 Nov, 17 Dez).
+Em algumas semanas haverá jantar (assinalado na imagem).
 
 **Horário às Sextas**:
 
@@ -27,7 +27,11 @@ Quando há jantar a actividade termina pelas 23h00.
 
 Serão organizadas excursões ou planos alternativos.
 
-> Destacamos duas saídas em Outubro:
+> Destacamos duas saídas:
 >
-> 1. A **Excursão ao Porto**, que terá componentes desportivas e culturais, além da visita a alguns ligares emblemáticos da cidade invicta. Será uma _joint venture_ com o clube Vega.
-> 2. **Caminhos de Santiago** a pé (começaremos já em Espanha). Aproveitaremos o feriado de 1 de Novembro.
+> * 11-13 FEV: **Fim-de-semana de Estudo** em Cantanhede
+> * 25-28 FEV: Excursão a Viseu (**Serra da Estrela**)
+
+Neste trimestre haverá duas **Conversas "Páginas de História"** (tertúlia com um convidado que nos falará de alguma das páginas da história nacional ou universal).
+
+Destacamos finalmente o lançamento do **Clube de Empreendedorismo**. Daremos informações em breve. Serão serões mensais, com convidados do mundo empresarial, antecedidos de um momento formativo à volta das "virtudes do líder".
