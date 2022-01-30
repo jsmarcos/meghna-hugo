@@ -1,10 +1,9 @@
 +++
 author = "Direcção"
-date = 2021-09-26T09:03:36Z
+date = 2022-01-30T10:03:36Z
 description = "This is meta description"
-draft = true
-image = "/images/act-grupo-5-8-set-dez-2021-smaller.png"
-image_webp = "/images/act-grupo-5-8-set-dez-2021-smaller.png"
+image = "/images/calendario-act-prisma-5-8-ano-jan-abr-2022.jpg"
+image_webp = "/images/calendario-act-prisma-5-8-ano-jan-abr-2022.jpg"
 title = "Actividades do grupo 5º-8º ano (Jan - Abr 2022)"
 
 +++
