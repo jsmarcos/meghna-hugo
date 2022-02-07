@@ -2,8 +2,8 @@
 author = "Direcção"
 date = 2022-01-30T10:03:36Z
 description = "This is meta description"
-image = "/images/calendario-act-prisma-5-8-ano-jan-abr-2022.jpg"
-image_webp = "/images/calendario-act-prisma-5-8-ano-jan-abr-2022.jpg"
+image = "/images/calendario-act-prisma-5-8-ano-jan-abril-2022.jpg"
+image_webp = "/images/calendario-act-prisma-5-8-ano-jan-abril-2022.jpg"
 title = "Actividades do grupo 5º-8º ano (Jan - Abr 2022)"
 
 +++
