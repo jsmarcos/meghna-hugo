@@ -13,7 +13,7 @@ Mantemos duas actividades por tarde: uma até ao lanche (mais curta: 30 ou 45m) 
 
 > Na 1ª actividade continuaremos com uma **Introdução à língua francesa** - "Français pour tous"
 
-Vamos servir-nos de diferentes metedologias e acreditamos que aprenderemos divertindo-nos.
+Vamos servir-nos de diferentes metodologias e acreditamos que aprenderemos divertindo-nos.
 
 > **Horário habitual:**
 >
