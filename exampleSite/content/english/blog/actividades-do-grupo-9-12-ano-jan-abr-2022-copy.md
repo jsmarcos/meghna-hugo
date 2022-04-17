@@ -26,11 +26,16 @@ Quando há jantar a actividade termina pelas 23h00.
 
 Serão organizadas excursões ou planos alternativos.
 
-> Destacamos duas saídas:
+> Destacamos três saídas:
 >
 > * 13-15 MAIO: **Fim-de-semana de Estudo** em Cantanhede
 > * 9-12 JUNHO: Peregrinação a Fátima a pé
+> * 22-24 JULHO: Convívio de Verão
 
 Neste trimestre teremos três convidados. Dois temas estão já confirmados: Redes Sociais (Dr. Pedro Gil) e Projecto "Dá o Clique" (Informação e ajuda em relação à pornografia).
+
+> _Think tank_, 20 MAIO: **Eutanásia** (oportunidade para pensar e articular ideias e argumentos sobre este importante tema)
+
+> **Descida de rio**, 19 JULHO (Domingo)
 
 Destacamos finalmente o lançamento do **Clube de Empreendedorismo**. Daremos informações em breve. Serão serões mensais, com convidados do mundo empresarial, antecedidos de um momento formativo à volta das "virtudes do líder".
