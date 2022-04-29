@@ -4,7 +4,7 @@ service:
   title: Actividades
   service_item:
   - name: Sala de Estudo
-    icon: ti-book
+    icon: ti-hand-point-up
     content: |-
       Em silêncio, para render.
       2ª, 4ª e 6ªs: das 10h00 às 20h00.
