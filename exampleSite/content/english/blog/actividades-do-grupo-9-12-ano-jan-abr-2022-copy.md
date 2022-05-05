@@ -36,6 +36,6 @@ Neste trimestre teremos três convidados. Dois temas estão já confirmados: Red
 
 > _Think tank_, 20 MAIO: **Eutanásia** (oportunidade para pensar e articular ideias e argumentos sobre este importante tema)
 
-> **Descida de rio**, 19 JULHO (Domingo)
+> **Descida de rio**, 19 JUNHO (Domingo)
 
 Destacamos finalmente o lançamento do **Clube de Empreendedorismo**. Daremos informações em breve. Serão serões mensais, com convidados do mundo empresarial, antecedidos de um momento formativo à volta das "virtudes do líder".
