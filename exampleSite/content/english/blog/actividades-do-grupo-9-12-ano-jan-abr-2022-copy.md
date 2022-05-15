@@ -2,8 +2,8 @@
 author = "Direcção"
 date = 2022-04-17T09:03:36Z
 description = "This is meta description"
-image = "/images/calendario-9-12-maio-julho-2022.png"
-image_webp = "/images/calendario-9-12-maio-julho-2022.png"
+image = "/images/calendario-9-12-maio-julho-2022.jpg"
+image_webp = "/images/calendario-9-12-maio-julho-2022.jpg"
 title = "Actividades do grupo 9º-12º ano (Abr - Julho 2022)"
 
 +++
