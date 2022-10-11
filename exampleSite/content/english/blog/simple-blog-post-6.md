@@ -1,6 +1,6 @@
 ---
 title: Regulamento Interno do Clube Prisma
-date: 2020-08-31T23:00:00+00:00
+date: 2022-10-09T23:00:00+00:00
 image_webp: "/images/regulamento-dest.jpg"
 image: "/images/regulamento-dest.jpg"
 author: Direcção
