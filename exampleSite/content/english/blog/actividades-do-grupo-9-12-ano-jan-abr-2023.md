@@ -31,9 +31,9 @@ Serão organizadas excursões ou planos alternativos.
 > * 24-26 FEV: Excursão a Viseu (**Serra da Estrela**) + Recolecção (Dom. de manhã)
 > * 10-12 MAR: Fim-de-semana de **Estudo**
 
-> Destacamos a **Festa das Famílias** a ter lugar a **18 de MARÇO** no Parqueda Casa do Pessoal do Hospital (CHUC). Reservem a tarde para este convívio entre famílias!
+> Destacamos a **Festa das Famílias** a ter lugar a **18 de MARÇO** no Parque da Casa do Pessoal do Hospital (CHUC). Reservem a tarde para este convívio entre famílias!
 
-Destacamos ainda 2 dias de preparação para as **Jornadas Mundiais da Juventude** (Lisboa):
+Destacamos ainda 2 dias de preparação para as **Jornadas Mundiais da Juventude**:
 
-> * 21 JAN: Tarde com apresentações e momento de oração
-> * 17-18 FEV: De Sexta a Sábado (conívio em local a anunciar)
+> * 21 JAN: Tarde com apresentações e um momento de oração
+> * 17-18 FEV: De Sexta a Sábado (convívio em local a anunciar)
