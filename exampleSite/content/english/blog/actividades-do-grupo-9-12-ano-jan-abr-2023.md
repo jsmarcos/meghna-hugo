@@ -1,6 +1,6 @@
 +++
 author = "Direcção"
-date = 2022-01-30T10:03:36Z
+date = 2022-04-17T23:00:00Z
 description = "This is meta description"
 image = "/images/calendario-9-12-jan-mar-2023.jpg"
 image_webp = "/images/calendario-9-12-jan-mar-2023.jpg"
