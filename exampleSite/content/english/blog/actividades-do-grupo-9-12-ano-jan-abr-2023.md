@@ -2,26 +2,24 @@
 author = "Direcção"
 date = 2022-01-30T10:03:36Z
 description = "This is meta description"
-draft = true
-image = "/images/calendario-9-12-jan-abr-2022.jpg"
-image_webp = "/images/calendario-9-12-jan-abr-2022.jpg"
+image = "/images/calendario-9-12-jan-mar-2023.jpg"
+image_webp = "/images/calendario-9-12-jan-mar-2023.jpg"
 title = "Actividades do grupo 9º-12º ano (Jan - Abr 2023)"
 
 +++
 Atividades todas as sextas-feiras **a partir das 14h30**.
 
-Em algumas semanas haverá jantar (assinalado na imagem).
+**Horário aos Sábados**:
 
-**Horário às Sextas**:
+* 15h00 Estudo
+* 16h00 Meditação (oração na capela do Clube  ao fio da pregação do sacerdote))
+* 16h30 Actividade
+* 17h45 Lanche
+* 18h30 Fim
 
-* 14h30 Estudo
-* 17h15 Lanche
-* 17h30 Continuação do Estudo (ou palestra formativa)
-* 18h30 Actividade
-* 19h30 Meditação (oração na capela do clube, ao fio da pregação do sacerdote)
-* 20h00 Fim (ou jantar)
+Ao longo da semana é possível vir **estudar ao Clube**.
 
-Quando há jantar a actividade termina pelas 23h00.
+O Estudo é uma das actividades mais importante do Clube.
 
 > A **Sala de Estudo** está aberta todos os dias a apartir das 14h30.
 
@@ -29,9 +27,12 @@ Serão organizadas excursões ou planos alternativos.
 
 > Destacamos duas saídas:
 >
-> * 11-13 FEV: **Fim-de-semana de Estudo** em Cantanhede
-> * 25-28 FEV: Excursão a Viseu (**Serra da Estrela**)
+> * 27-29 JAN: **Fim-de-semana de Estudo** 
+> * 24-26 FEV: Excursão a Viseu (**Serra da Estrela**) + Recolecção (Dom. de manhã)
 
-Neste trimestre haverá duas **Conversas "Páginas de História"** (tertúlia com um convidado que nos falará de alguma das páginas da história nacional ou universal).
+> Destacamos a **Festa das Famílias** a ter lugar a **18 de MARÇO** no Parqueda Casa do Pessoal do Hospital (CHUC). Reservem a tarde para este convívio entre famílias!
 
-Destacamos finalmente o lançamento do **Clube de Empreendedorismo**. Daremos informações em breve. Serão serões mensais, com convidados do mundo empresarial, antecedidos de um momento formativo à volta das "virtudes do líder".
+Destacamos ainda 2 dias de preparação para as **Jornadas Mundiais da Juventude** (Lisboa):
+
+> * 21 JAN: Tarde com apresentações e momento de oração
+> * 17-18 FEV: De Sexta a Sábado (conívio em local a anunciar)
