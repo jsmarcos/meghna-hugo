@@ -25,10 +25,11 @@ O Estudo é uma das actividades mais importante do Clube.
 
 Serão organizadas excursões ou planos alternativos.
 
-> Destacamos duas saídas:
+> Destacamos três saídas:
 >
-> * 27-29 JAN: **Fim-de-semana de Estudo** 
+> * 27-29 JAN: Fim-de-semana de **Estudo**
 > * 24-26 FEV: Excursão a Viseu (**Serra da Estrela**) + Recolecção (Dom. de manhã)
+> * 10-12 MAR: Fim-de-semana de **Estudo**
 
 > Destacamos a **Festa das Famílias** a ter lugar a **18 de MARÇO** no Parqueda Casa do Pessoal do Hospital (CHUC). Reservem a tarde para este convívio entre famílias!
 
