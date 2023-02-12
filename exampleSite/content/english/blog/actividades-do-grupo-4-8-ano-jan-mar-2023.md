@@ -2,8 +2,8 @@
 author = "Direcção"
 date = 2022-04-17T09:03:36Z
 description = "This is meta description"
-image = "/images/maio-julho-2022.jpg"
-image_webp = "/images/maio-julho-2022.jpg"
+image = "/images/calendario-jan-mar-2023.jpg"
+image_webp = "/images/calendario-jan-mar-2023.jpg"
 title = "Actividades do grupo 4º-8º ano (Jan-Mar 2023)"
 
 +++
